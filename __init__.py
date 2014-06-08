@@ -5,4 +5,4 @@
     :copyright: (c) 2011 by Openlabs Technologies & Consulting (P) Ltd..
     :license: GPLv3, see LICENSE for more details.
 """
-import sequence
+import sequence  # noqa
